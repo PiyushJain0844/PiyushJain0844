@@ -1,5 +1,4 @@
-```markdown
-<h1 align="center">Hi 👋, I'm Piyush Jain</h1>
+## <h1 align="center">Hi 👋, I'm Piyush Jain</h1>
 
 <h3 align="center">
 B.Tech Computer Science & Engineering Student | Software Developer | Competitive Programmer
